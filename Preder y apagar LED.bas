@@ -1,4 +1,4 @@
-$regfile = "m8def.dat"
+$regfile = "m16def.dat"
 $crystal = 8000000
 Config Portb.0 = Output
 
